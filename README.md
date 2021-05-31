@@ -9,9 +9,9 @@
 
 ## Project
 - Health checkup information analysis, Sunmoon University, Korea (2020.03 ~ 2020.06)
-- School Club Web Page, Sunmoon University, Korea (2020.9 ~ 2020.11)[https://github.com/leonilpark/20_2_2_webProject]
-- Covid-19 Detection on Chest X-Rays with Deep Learning, 한국인공지능연구소, Korea (2021.01 ~ 2021.04) [https://github.com/leonilpark/Eagle_Eye]
-- Today's News, Sunmoon University, Korea (2021.03 ~ 2021.06)[https://github.com/leonilpark/Today_News]
+- [School Club Web Page, Sunmoon University, Korea (2020.9 ~ 2020.11)](https://github.com/leonilpark/20_2_2_webProject)
+- [Covid-19 Detection on Chest X-Rays with Deep Learning, 한국인공지능연구소, Korea (2021.01 ~ 2021.04)](https://github.com/leonilpark/Eagle_Eye)
+- [Today's News, Sunmoon University, Korea (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
 
 ## Activity
 - 전공동아리 "비상" 회장
