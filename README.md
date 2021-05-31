@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Janghoon Park
 - 🎓 I majored in **Computer Science and Engineering** (2017.03 ~ ing)
-- ⌨️  I can use `Python`, `Java`, `MySQL` and I have experience using `Vue.js` and `Tensorflow`, `Keras`, `Pytorch`.
+- ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`.
 - 🤔 I'm studying hard to contribute society
 
 ## Experience
