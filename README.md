@@ -30,9 +30,11 @@
 
 # Github Stats
 <a href='#'>
+ <div align=center>
  <img src = "https://github-readme-stats.vercel.app/api?username=leonilpark&theme=buefy&show_icons=true&hide_border=true" height = "170px">
 </a>
 <a href="#">
+ <div align=center>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonilpark&theme=buefy&layout=compact" height = "170px">
 </a>
    <div align=center>
