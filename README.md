@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Janghoon Park
+# <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Janghoon Park
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
 - ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`.
 - 🤔 I'm studying hard to contribute society
@@ -37,13 +37,10 @@
 <a href="#">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonilpark&theme=buefy&layout=compact" height = "180px">
 </a>
-
-
-
-   <div align=center>
+<div align=center>
   
   
- ### ☎️Contact me
+### ☎️Contact me
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/leonilpark)](https://hits.seeyoufarm.com)
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/leonilpark)](https://github.com/leonilpark)
