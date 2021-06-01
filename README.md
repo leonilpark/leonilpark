@@ -35,7 +35,7 @@
  <img src = "https://github-readme-stats.vercel.app/api?username=leonilpark&theme=buefy&show_icons=true&hide_border=true" height = "180px">
 </a>
 <a href="#">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonilpark&theme=buefy&layout=compact" height = "180px">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonilpark&theme=buefy&layout=compact" height = "180px">
 </a>
 <div align=center>
   
