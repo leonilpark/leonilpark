@@ -14,13 +14,11 @@
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
 
 ## Activity
-- 전공동아리 "비상" 회장
 - 선문대학교 기술창업 아카데미 수료
 - KAIST Design Thinking 해커톤 수료
 - LG Dream Challengers 9기
 - K-ICT 빅데이터센터 개인정보 비식별조치 전문교육 수료
 - K-ICT 빅데이터센터 인프라 기반 의료분야 도메인 교육 수료
-- 창업동아리 "Beehive Studio" 회장
 - 선문대학교 인공지능 비교과교육 1등 수료
 - 제 3회 세종SW 해커톤 중 • 고등부 코칭 한국정보통신보안윤리학회 창업아이디어부문 장려상 
 - 서울과학기술대학교 AI Engineer 과정 수료 
