@@ -37,6 +37,9 @@
 </a>
 <div align=center>
  
+ 
+## Solved.ac Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjangh98)](https://solved.ac/pjangh98/)
   
 ## ☎️Contact me
   
@@ -45,3 +48,4 @@
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pjangh98/)](https://www.facebook.com/pjangh98/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_leonil/)](https://www.instagram.com/dev_leonil/)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjangh98@gmail.com)](mailto:pjangh98@gmail.com)
+</div>
