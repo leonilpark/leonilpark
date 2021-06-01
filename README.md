@@ -34,8 +34,7 @@
 </a>
 <a href="#">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonilpark&theme=buefy&layout=compact" height = "180px">
-</a>
- <div align=center>
+</a> <div align=center>
   
   
  ### ☎️Contact me
