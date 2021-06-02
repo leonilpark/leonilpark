@@ -37,10 +37,7 @@
 </a>
 <div align=center>
  
- 
-## Solved.ac Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjangh98)](https://solved.ac/pjangh98/)
-  
+
 ## ☎️Contact me
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/leonilpark)](https://hits.seeyoufarm.com)
