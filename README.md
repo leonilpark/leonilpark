@@ -10,6 +10,7 @@
 ## Project
 - 건강검진정보를 통한 흡연, 음주에 따른 신체정보 분석 (2020.03 ~ 2020.06)
 - [학교 동아리 홈페이지 제작 (2020.9 ~ 2020.11)](https://github.com/leonilpark/20_2_2_webProject)
+- [딥러닝 사용 가이드 제작(2021.01 ~ 2021.03)](https://leonilpark.github.io/DeepLearning-Study/)
 - [딥러닝을 이용한 Covid-19 진단 (2021.01 ~ 2021.04)](https://github.com/leonilpark/Eagle_Eye)
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
 
