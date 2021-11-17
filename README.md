@@ -5,7 +5,7 @@
 
 ## Experience
 - [(사) 한국인공지능연구소 오픈랩 8기 이글아이 랩장 (2021.01 ~ 2021.04)](https://www.ai-lab.kr/opens/601005bf7f1e709c2c2d78ac)
-- DGIST CCG Lab  (2021.06 ~ )
+- [DGIST CCG Lab  (2021.06 ~ )](https://dgist-lab.wixsite.com/ccglab)
 
 
 ## Project
@@ -14,6 +14,7 @@
 - [딥러닝 사용 가이드 제작(2021.01 ~ 2021.03)](https://leonilpark.github.io/DeepLearning-Study/)
 - [딥러닝을 이용한 Covid-19 진단 (2021.01 ~ 2021.04)](https://github.com/leonilpark/Eagle_Eye)
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
+- 메타버스 기바 비대면 인지행동치료 어플리케이션(2021.08 ~ )
 
 ## Activity
 - 선문대학교 기술창업 아카데미 수료
@@ -29,6 +30,9 @@
 - 2020 충청지역 Design Thinking Presentation Camp 동상
 - 패스트캠퍼스 & SK 신입사원 실습코치
 - 2021 교육지원청 직무연수 AI교육 보조
+- 2021 선문대학교 IP(지식재산) Fair 총장상
+- 2021 선문대학교 창업아이디어 공모전(4차산업혁명 부문) 우수상
+- 2021 선문대학교 주•산•학 창업페스티벌(4차산업혁명 부문) 최우수상
 
 # Github Stats
 <a href='#'>
