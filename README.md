@@ -14,7 +14,7 @@
 - [딥러닝 사용 가이드 제작(2021.01 ~ 2021.03)](https://leonilpark.github.io/DeepLearning-Study/)
 - [딥러닝을 이용한 Covid-19 진단 (2021.01 ~ 2021.04)](https://github.com/leonilpark/Eagle_Eye)
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
-- 메타버스 기바 비대면 인지행동치료 어플리케이션(2021.08 ~ )
+- 메타버스 기반 비대면 인지행동치료 어플리케이션(2021.08 ~ 2021.11)
 
 ## Activity
 - 선문대학교 기술창업 아카데미 수료
