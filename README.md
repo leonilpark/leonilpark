@@ -50,6 +50,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/leonilpark)](https://hits.seeyoufarm.com)
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/leonilpark)](https://github.com/leonilpark)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pjangh98/)](https://www.facebook.com/pjangh98/)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_leonil/)](https://www.instagram.com/dev_leonil/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_leonil/)](https://www.instagram.com/jay_hxxn_/)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjangh98@gmail.com)](mailto:pjangh98@gmail.com)
 </div>
