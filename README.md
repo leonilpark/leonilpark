@@ -1,5 +1,6 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Janghoon Park
-- 🎓 I majored in **Computer Science and Engineering** in [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ 2022.08)
+- 🎓 I received the B.E. degree in **Data Engineering** from [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ 2022.08)
+- 🎓 I'm in Ph.D course in **Interdisciplinary Engineering** from [Daegu Gyeongbuk Institute of Science & Technology (DGIST)](https://www.dgist.ac.kr/kr/intro.html)
 - ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`, `OpenCV`.
 - 🤔 I'm studying hard to contribute society
 
