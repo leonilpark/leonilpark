@@ -19,7 +19,7 @@
 - [일반인의 사생활 보호를 위한 특정 인물을 제외한 동영상 모자이크 서비스 (2022.03 ~ 2022.06)](https://github.com/HwaRyo/VideoMosaicWeb)
 
 ## Paper
-- Automated Mosaic Web Application Combining Multiple Models
+- Automated Mosaic Web Application Combining Multiple Models, ISIITA 2023
 
 ## Patent
 - 분광기와 머신러닝을 이용한 쌀국수 반죽 배합 및 수분 측정을 위한 시스템과 최종 품질 검사 시스템 개발
