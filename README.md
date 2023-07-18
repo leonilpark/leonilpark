@@ -1,6 +1,6 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Janghoon Park
 - 🎓 I received the B.E. degree in **Data Engineering** from [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ 2022.08)
-- 🎓 I'm in Ph.D course in **Interdisciplinary Engineering** from [Daegu Gyeongbuk Institute of Science & Technology (DGIST)](https://www.dgist.ac.kr/kr/intro.html) (2023.03 ~ )
+- 🎓 I'm in Integrated Master & Ph.D course in **Interdisciplinary Engineering** from [Daegu Gyeongbuk Institute of Science & Technology (DGIST)](https://www.dgist.ac.kr/kr/intro.html) (2023.03 ~ )
 - ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`, `OpenCV`.
 - 🤔 I'm studying hard to contribute society
 
@@ -17,6 +17,12 @@
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
 - 메타버스 기반 비대면 인지행동치료 어플리케이션(2021.08 ~ 2021.11)
 - [일반인의 사생활 보호를 위한 특정 인물을 제외한 동영상 모자이크 서비스 (2022.03 ~ 2022.06)](https://github.com/HwaRyo/VideoMosaicWeb)
+
+## Paper
+- Automated Mosaic Web Application Combining Multiple Models
+
+## Patent
+- 분광기와 머신러닝을 이용한 쌀국수 반죽 배합 및 수분 측정을 위한 시스템과 최종 품질 검사 시스템 개발
 
 ## Activity
 - 선문대학교 단과대학 수석졸업
