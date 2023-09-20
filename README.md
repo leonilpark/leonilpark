@@ -1,12 +1,10 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Janghoon Park
 - 🎓 I received the B.E. degree in **Data Engineering** from [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ 2022.08)
-- 🎓 I'm in Integrated Master & Ph.D course in **Interdisciplinary Engineering** from [Daegu Gyeongbuk Institute of Science & Technology (DGIST)](https://www.dgist.ac.kr/kr/intro.html) (2023.03 ~ )
 - ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`, `OpenCV`.
 - 🤔 I'm studying hard to contribute society
 
 ## Experience
 - [(사) 한국인공지능연구소 오픈랩 8기 이글아이 랩장 (2021.01 ~ 2021.04)](https://www.ai-lab.kr/opens/601005bf7f1e709c2c2d78ac)
-- [DGIST CCG Lab  (2021.06 ~ )](https://dgist-lab.wixsite.com/ccglab)
 
 
 ## Project
