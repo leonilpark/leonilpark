@@ -1,6 +1,8 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Janghoon Park
 - 🎓 I received the B.E. degree in **Data Engineering** from [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ 2022.08)
-- ⌨️  I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`, `OpenCV`.
+- 🎓 I’m currently pursuing my master’s degree in Robotics and Mechatronics Engineering (RME) at DGIST. (2024.03 ~ 2026.07)
+- ⌨️ I can use `Python`, `Java`, `MySQL`, `Tensorflow`, `Keras`, `Pytorch`, `OpenCV`.
+- ⌨️ I can use `RIE/ICP Etcher`, `E-beam Lithography`, `E-beam Evaporation`, `Wafer Dicer`
 - 🤔 I'm studying hard to contribute society
 
 ## Experience
@@ -15,6 +17,9 @@
 - [뉴스키워드 기반 실시간 이슈 분석 앱 (2021.03 ~ 2021.06)](https://github.com/leonilpark/Today_News)
 - 메타버스 기반 비대면 인지행동치료 어플리케이션(2021.08 ~ 2021.11)
 - [일반인의 사생활 보호를 위한 특정 인물을 제외한 동영상 모자이크 서비스 (2022.03 ~ 2022.06)](https://github.com/HwaRyo/VideoMosaicWeb)
+- 양자센싱 융합기술 개발 및 인재양성, 정보통신기획평가원, Korea/ Management of Fabrication (Mar. 2024 ~ Dec. 2024)
+- Integrated Photonic MEMS Switch for AR laser projector, Meta Reality Lab, United States/ Lead Researcher (Oct. 2024 ~ Dec. 2025)
+- HAETAE: 뉴로모픽 광학 전이학습 AI 엔진을 위한 이종집적 다중소재 광집적회로 칩렛, 한국연구재단, Korea/ Management of Fabrication (Jul. 2024 ~ Present)
 
 ## Paper
 - Automated Mosaic Web Application Combining Multiple Models, ISIITA 2023
